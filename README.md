@@ -5,7 +5,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-teal.svg?style=for-the-badge&logo=fastapi)
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
-A lightning-fast **Limit Order Book (LOB)** implemented in Python, enhanced with a real-time React + Recharts web visualization frontend. This engine implements a robust **Price-Time Priority (FIFO)** matching algorithm for high-throughput financial setups.
+> Synapse HFT Viewer: A lightning-fast Limit Order Book matching engine built in Python and FastAPI. Features real-time WebSocket syncing, sub-millisecond execution tracking, and a live React dashboard.
 
 <div align="center">
   <img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&q=80&w=1000" alt="Trading Board" width="70%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);"/>
